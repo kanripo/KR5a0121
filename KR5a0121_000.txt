@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view; -*-
-#+DATE: 2015-08-28 23:37:54.918361
+# -*- mode: mandoku-view -*-
 #+TITLE: 黃帝陰符經心法
-#+PROPERTY: DZID  DZ0120
-#+PROPERTY: SOURCE  正統道藏，三家本，1988，2—799 三卷 洞真部玉訣類
+#+DATE: 2015-08-28 23:37:55
+#+PROPERTY:  LASTPB <PB KR5a0121_SJB_003-020803c>
 #+PROPERTY: BASEEDITION HFL
-#+PROPERTY: WITNESS HFL
+#+PROPERTY: WITNESS ZTDZ
+#+PROPERTY: JUAN 0
+¶¶¶¶¶¶¶<md:KR5a0121_HFL_003-015b>¶¶¶¶¶¶¶¶¶¶¶
+
